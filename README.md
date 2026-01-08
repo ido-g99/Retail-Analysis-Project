@@ -37,7 +37,7 @@ The dataset includes:
 - Promote premium products through targeted marketing to maximize revenue.
 - Adjust staffing strategies midweek based on observed demand patterns.
 - Plan for seasonal and event-driven demand fluctuations.
-## How to run
+## How to Run
 1. Open MySQL Workbench
 2. Run 'Schema.sql' to create tables.
 3. Run 'Data.sql' to populate data.

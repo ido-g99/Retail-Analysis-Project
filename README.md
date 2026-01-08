@@ -26,7 +26,7 @@ The dataset includes:
 ## Analysis & Insights
 - Sales peak between 18:00–22:00, indicating the need for increased evening staffing.
 - Medium scoop products are the most frequently sold items.
-- Premium products (e.g., Dubai items) generate high revenue.
+- Premium products (e.g., Dubai items) generate high revenue relative to volume.
 - Stores in Haifa outperform other cities, with the Carmel branch leading sales.
 - Morning sales volumes are lower, but beverage items dominate early hours.
 - New Year’s Eve shows a significant increase in total sales and units per transaction.
